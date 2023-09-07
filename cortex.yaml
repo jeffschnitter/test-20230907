@@ -1,0 +1,12 @@
+openapi: 3.0.1
+info:
+  title: Test 2023-09-07
+  x-cortex-git:
+    github:
+      repository: jeffschnitter/test-20230907
+  x-cortex-tag: test-20230907
+  x-cortex-type: service
+  x-cortex-owners:
+  - type: EMAIL
+    email: jeff.schnitter@cortex.io
+ 
