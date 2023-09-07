@@ -1,6 +1,6 @@
 openapi: 3.0.1
 info:
-  title: Test 2023-09-07
+  title: Test 2023-09-07 and some more data
   x-cortex-git:
     github:
       repository: jeffschnitter/test-20230907
